@@ -1,0 +1,10 @@
+{
+  "ing_chicken": {
+    "name": "Chicken Breast",
+    "unit": "kg",
+    "cost_per_unit": 7.5
+  },
+  "ing_rice": { "name": "Rice", "unit": "kg", "cost_per_unit": 2.0 },
+  "ing_lime": { "name": "Lime", "unit": "piece", "cost_per_unit": 0.3 },
+  "ing_cilantro": { "name": "Cilantro", "unit": "bunch", "cost_per_unit": 1.0 }
+}

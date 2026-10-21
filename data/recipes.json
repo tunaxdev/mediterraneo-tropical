@@ -1,0 +1,11 @@
+{
+  "rec_grilled_chicken": {
+    "name": "Grilled Lime Chicken",
+    "portions": 2,
+    "selling_price": 18.0,
+    "ingredients": [
+      { "ingredient_id": "ing_chicken", "quantity": 0.4 },
+      { "ingredient_id": "ing_lime", "quantity": 2 }
+    ]
+  }
+}

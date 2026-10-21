@@ -1,0 +1,795 @@
+[
+  {
+    "id": "food_arepa_doner_sliders",
+    "type": "food",
+    "category": "food",
+    "name": "Arepa Döner Sliders",
+    "short_name": "Arepa Döner Sliders",
+    "style": "Colombian arepa × Turkish döner street snack",
+    "description": "Mini Colombian arepas stuffed with sliced Turkish döner, topped with aji criollo and garlic yogurt sauce, served as bite-size sliders.",
+    "signature": false,
+    "tags": ["bar food", "sliders", "arepa", "doner"],
+    "ingredients": [
+      "Mini arepa buns",
+      "Thinly sliced beef döner",
+      "Aji criollo sauce (onion, cilantro, chili, lime)",
+      "Garlic yogurt sauce",
+      "Fresh cilantro or parsley",
+      "Salt and black pepper",
+      "Lime wedges for serving"
+    ],
+    "preparation": [
+      "Lightly toast or grill the mini arepas until the outside is slightly crisp.",
+      "Reheat the döner in a pan briefly so it becomes hot and slightly caramelized.",
+      "Slice each arepa horizontally like a slider bun.",
+      "Fill with hot döner slices, then spoon aji criollo and garlic yogurt sauce on top.",
+      "Finish with fresh cilantro or parsley and serve as bite-size sliders with lime wedges."
+    ],
+    "taste_profile": [
+      "Rich, fatty umami from the döner",
+      "Fresh, tangy and slightly spicy notes from aji criollo",
+      "Comforting, familiar bar flavor from the garlic yogurt sauce",
+      "Warm corn arepa texture as a soft, slightly sweet base"
+    ],
+    "menu_blurb": "Mini Colombian arepas stuffed with Turkish döner, topped with aji criollo and garlic yogurt – perfect bite-size sliders for the bar.",
+    "image": "assets/house_menu/food/arepa_doner_sliders.jpg"
+  },
+  {
+    "id": "food_bandeja_antioquia_burger",
+    "type": "food",
+    "category": "food",
+    "name": "Bandeja Antioquia Burger",
+    "short_name": "Antioquia Burger",
+    "style": "Burger inspired by Colombian bandeja with Turkish twists",
+    "description": "A juicy burger patty layered with red bean mash, roasted eggplant–tomato relish and Turkish white cheese, bringing the spirit of Bandeja Paisa into a burger.",
+    "signature": false,
+    "tags": ["burger", "bandeja", "bean mash", "comfort food"],
+    "ingredients": [
+      "Burger bun",
+      "Beef burger patty",
+      "Spiced red bean mash",
+      "Roasted eggplant",
+      "Tomato sauce or crushed tomato",
+      "Turkish white cheese (as queso costeño substitute)",
+      "Lettuce leaves",
+      "Onion rings",
+      "Salt, black pepper, ground cumin",
+      "Optional: jalapeño or hot chili slices"
+    ],
+    "preparation": [
+      "Season the burger patty with salt, pepper and a little cumin, then grill or pan-sear until cooked to your preferred doneness.",
+      "Prepare a spiced red bean mash by cooking red beans with garlic, cumin and a touch of chili, then mashing to a spreadable texture.",
+      "Dice roasted eggplant and cook briefly with tomato sauce to make a rustic relish.",
+      "Lightly toast the burger bun.",
+      "Spread bean mash on the bottom bun, place the patty on top, then add slices of white cheese and the eggplant–tomato relish.",
+      "Finish with lettuce and onion rings, close the bun and serve with fries."
+    ],
+    "taste_profile": [
+      "Deep, hearty flavors inspired by Bandeja Paisa (beans + grilled meat)",
+      "Smoky sweetness from roasted eggplant and tomato",
+      "Salty creaminess from Turkish white cheese",
+      "A rich, comforting burger that feels both Colombian and Turkish"
+    ],
+    "menu_blurb": "Beef burger with spiced red bean mash, roasted eggplant–tomato relish and Turkish white cheese – a Bandeja Paisa inspired burger.",
+    "image": "assets/house_menu/food/bandeja_antioquia_burger.jpg"
+  },
+  {
+    "id": "food_aegean_guava_pacanga",
+    "type": "food",
+    "category": "food",
+    "name": "Aegean–Colombian Cheese Paçanga",
+    "short_name": "Aegean Guava Paçanga",
+    "style": "Aegean herb & cheese börek with tropical guava",
+    "description": "Crispy paçanga börek stuffed with Aegean herbs and a mix of Turkish white cheese and queso costeño/cheddar, finished with a light guava drizzle for a sweet–savory signature contrast.",
+    "signature": true,
+    "tags": ["signature", "cheese börek", "aegean herbs", "guava"],
+    "ingredients": [
+      "Yufka or pastry sheets for paçanga",
+      "Queso costeño or salty Turkish white cheese, crumbled",
+      "Grated kashar cheese",
+      "Fresh Aegean herbs (mixed – e.g. wild greens, rocket etc.)",
+      "Fresh thyme",
+      "A small pinch of finely chopped sage",
+      "Fresh dill",
+      "Finely chopped jalapeño or green chili",
+      "Vegetable oil for frying",
+      "Guava purée or guava sauce for topping",
+      "Optional: sesame or nigella seeds"
+    ],
+    "preparation": [
+      "Crumble the white cheese and mix with grated kashar in a bowl.",
+      "Finely chop the Aegean herbs, thyme, sage and dill; fold into the cheese mixture.",
+      "Add a little finely chopped jalapeño for a Colombian heat note.",
+      "Cut the pastry into rectangles, place the filling and roll tightly into paçanga logs.",
+      "Deep-fry in hot oil until golden and crispy, then drain on paper towels.",
+      "Plate the böreks and drizzle a thin line of guava sauce over the top. Sprinkle with sesame or nigella seeds if desired."
+    ],
+    "taste_profile": [
+      "Salty, aromatic cheese-and-herb filling reminiscent of the Aegean coast",
+      "Tropical, lightly sweet contrast from the guava drizzle",
+      "Gentle heat from jalapeño",
+      "Very crispy outside, soft cheesy interior"
+    ],
+    "menu_blurb": "Crispy Aegean börek stuffed with mixed cheeses and herbs, finished with a tropical guava drizzle – our signature fusion snack.",
+    "image": "assets/house_menu/food/aegean_guava_pacanga.jpg"
+  },
+  {
+    "id": "food_patacon_kokorec_taco",
+    "type": "food",
+    "category": "food",
+    "name": "Patacón Kokoreç Taco",
+    "short_name": "Patacón Kokoreç",
+    "style": "Fried green plantain base topped with Turkish kokoreç",
+    "description": "Crispy fried green plantain slices (patacón) used as a base for finely chopped kokoreç and spicy Colombian hogao sauce – a bold bar plate.",
+    "signature": false,
+    "tags": ["patacon", "kokorec", "taco style", "spicy"],
+    "ingredients": [
+      "Green plantain slices",
+      "Finely chopped kokoreç (seasoned offal)",
+      "Hogao sauce (tomato, onion, cilantro, chili)",
+      "Ground cumin, dried thyme and chili flakes",
+      "Salt and black pepper",
+      "Oil for frying",
+      "Fresh cilantro or parsley, lime wedges"
+    ],
+    "preparation": [
+      "Deep-fry the plantain slices until lightly golden, then flatten them gently and fry again until very crisp to make patacón.",
+      "Sauté the chopped kokoreç in a pan with cumin, thyme and chili flakes.",
+      "Prepare hogao sauce separately by cooking tomato, onion and cilantro until slightly thickened.",
+      "Top each patacón with the hot kokoreç and a spoonful of hogao.",
+      "Garnish with fresh herbs and serve immediately with lime wedges."
+    ],
+    "taste_profile": [
+      "Crispy, slightly sweet-starchy base from fried plantain",
+      "Intense, spicy offal flavor from kokoreç",
+      "Fresh, tangy and lightly hot notes from hogao",
+      "High-impact, very bar-friendly snack"
+    ],
+    "menu_blurb": "Crispy green plantain “tacos” topped with Turkish kokoreç and hogao – crunchy, spicy and addictive.",
+    "image": "assets/house_menu/food/patacon_kokorec_taco.jpg"
+  },
+  {
+    "id": "food_empanada_sigara_boregi",
+    "type": "food",
+    "category": "food",
+    "name": "Empanada Sigara Roll",
+    "short_name": "Empanada Böreği",
+    "style": "Colombian empanada filling inside Turkish sigara börek",
+    "description": "Thin sigara börek pastry filled with Colombian-style minced beef empanada mix and melted kashar cheese, served with salsa rosada and spicy Turkish pepper sauce.",
+    "signature": false,
+    "tags": ["empanada", "sigara boregi", "fried", "snack"],
+    "ingredients": [
+      "Yufka cut into triangles for sigara böreği",
+      "Empanada mince filling (ground beef, onion, garlic, cumin, pepper, tomato)",
+      "Grated kashar cheese",
+      "Oil for frying",
+      "Salsa rosada",
+      "Spicy Turkish pepper sauce",
+      "Salt and black pepper"
+    ],
+    "preparation": [
+      "Prepare a classic empanada filling by cooking minced beef with onion, garlic, tomato and spices; let it cool slightly.",
+      "Place some filling and grated kashar at the wide edge of each pastry triangle.",
+      "Roll tightly into a thin cylinder and seal the tip with a little water.",
+      "Deep-fry in hot oil until golden and crisp, then drain well.",
+      "Serve hot with salsa rosada and spicy pepper sauce on the side."
+    ],
+    "taste_profile": [
+      "Savory, gently spiced empanada mince",
+      "Melty, stretchy cheese in the center",
+      "Very crisp, thin pastry shell",
+      "Creamy and spicy contrast from the two sauces"
+    ],
+    "menu_blurb": "Crispy Turkish sigara böreği filled with Colombian empanada mince and cheese, served with salsa rosada and spicy pepper sauce.",
+    "image": "assets/house_menu/food/empanada_sigara_boregi.jpg"
+  },
+  {
+    "id": "food_falafel_aji_criollo",
+    "type": "food",
+    "category": "food",
+    "name": "Crispy Falafel – Aji Criollo Dip",
+    "short_name": "Falafel & Aji Dip",
+    "style": "Turkish-style falafel with Colombian aji–tahini dip",
+    "description": "Chickpea falafel balls served with a creamy dip made from aji criollo, tahini and lime. A fully vegan bar plate.",
+    "signature": false,
+    "tags": ["vegan", "falafel", "aji criollo", "dip"],
+    "ingredients": [
+      "Soaked chickpeas",
+      "Onion and garlic",
+      "Parsley and cilantro",
+      "Ground cumin, coriander seeds, salt and black pepper",
+      "Flour or chickpea flour",
+      "Oil for frying",
+      "Aji criollo sauce",
+      "Tahini",
+      "Lime juice",
+      "Olive oil"
+    ],
+    "preparation": [
+      "Blend chickpeas, onion, garlic, herbs and spices in a food processor; add flour if needed until the mixture holds its shape.",
+      "Form small falafel balls and chill briefly.",
+      "Deep-fry in hot oil until dark golden and very crisp.",
+      "For the dip, whisk together aji criollo, tahini, lime juice and a little olive oil until smooth.",
+      "Serve the hot falafel with plenty of aji-tahini-lime dip."
+    ],
+    "taste_profile": [
+      "Warm, earthy flavor from chickpeas and spices",
+      "Creamy, rich body from the tahini-based dip",
+      "Fresh, tangy and slightly spicy notes from aji and lime",
+      "Vegan but very filling and bar-friendly"
+    ],
+    "menu_blurb": "Crispy chickpea falafel served with a creamy aji criollo–tahini–lime dip – 100% vegan, 200% flavor.",
+    "image": "assets/house_menu/food/falafel_aji_criollo.jpg"
+  },
+  {
+    "id": "food_bandeja_anatolia_nachos",
+    "type": "food",
+    "category": "food",
+    "name": "Bandeja Anatolia Nachos",
+    "short_name": "Anatolia Nachos",
+    "style": "Lavash chips loaded with Turkish & Colombian toppings",
+    "description": "Crispy lavash chips topped with bean mash, spiced minced beef, melted cheese, yogurt chili sauce, hogao and roasted eggplant – a sharing nachos platter.",
+    "signature": false,
+    "tags": ["nachos", "sharing", "lavash chips", "bandeja"],
+    "ingredients": [
+      "Lavash bread cut into triangles",
+      "Oil for frying or olive oil for baking",
+      "Red bean mash",
+      "Spiced minced beef",
+      "Grated kashar cheese",
+      "Yogurt chili sauce",
+      "Hogao sauce",
+      "Roasted eggplant pieces",
+      "Fresh cilantro or parsley",
+      "Lime wedges"
+    ],
+    "preparation": [
+      "Fry or bake lavash triangles until crunchy to make chips.",
+      "Spread chips in a baking dish, then spoon bean mash and hot minced beef over them.",
+      "Top with grated cheese and bake briefly until melted.",
+      "Remove from the oven and drizzle hogao, roasted eggplant and yogurt chili sauce over the top.",
+      "Garnish with fresh herbs and serve with lime wedges."
+    ],
+    "taste_profile": [
+      "Light Turkish character from lavash chips",
+      "Bandeja-style richness from beans and mince",
+      "Tangy, spicy and creamy combination of hogao and yogurt chili sauce",
+      "Perfect for large sharing platters"
+    ],
+    "menu_blurb": "Lavash nachos loaded with bean mash, spiced mince, melted cheese, hogao, roasted eggplant and spicy yogurt sauce.",
+    "image": "assets/house_menu/food/bandeja_anatolia_nachos.jpg"
+  },
+  {
+    "id": "food_cop_sis_anticucho",
+    "type": "food",
+    "category": "food",
+    "name": "Çöp Şiş Anticucho",
+    "short_name": "Anticucho Skewers",
+    "style": "Turkish çöp şiş with Colombian anticucho glaze",
+    "description": "Grilled Turkish çöp şiş marinated in anticucho-style spicy sauce, served with fries and garlic–thyme yogurt dip.",
+    "signature": false,
+    "tags": ["skewers", "grill", "anticucho", "yogurt dip"],
+    "ingredients": [
+      "Skewer-size beef or lamb pieces",
+      "Anticucho-style sauce (chili, garlic, vinegar, cumin, paprika)",
+      "Salt and black pepper",
+      "French fries",
+      "Yogurt",
+      "Garlic",
+      "Fresh thyme or rosemary",
+      "Lemon or lime juice"
+    ],
+    "preparation": [
+      "Marinate the meat pieces in anticucho sauce for at least 1–2 hours.",
+      "Thread onto skewers and grill on high heat until nicely charred on the outside.",
+      "Prepare fries as a side.",
+      "For the dip, mix yogurt with grated garlic, chopped thyme and a little lemon juice.",
+      "Serve the skewers with fries and the yogurt dip on the side."
+    ],
+    "taste_profile": [
+      "Vinegary, chili-forward and smoky notes from anticucho marinade",
+      "Familiar Turkish grilled meat texture and flavor",
+      "Cooling, creamy balance from the herb yogurt dip",
+      "Very satisfying bar plate with fries"
+    ],
+    "menu_blurb": "Grilled çöp şiş skewers in a spicy anticucho marinade, served with fries and garlic–thyme yogurt dip.",
+    "image": "assets/house_menu/food/cop_sis_anticucho.jpg"
+  },
+  {
+    "id": "food_arepa_lahmacun_rolls",
+    "type": "food",
+    "category": "food",
+    "name": "Arepa Lahmacun",
+    "short_name": "Lahmacun ",
+    "style": "Thin arepa wraps with lahmacun filling",
+    "description": "Thin arepa bases spread with lahmacun mince, rolled into mini pinwheels and served with nar ekşisi–lime glaze and fresh cilantro.",
+    "signature": false,
+    "tags": ["lahmacun", "arepa", "rolls", "sharing"],
+    "ingredients": [
+      "Thin arepa bases or corn tortillas",
+      "Lahmacun mince (ground beef, tomato, onion, pepper, parsley, spices)",
+      "Nar ekşisi (pomegranate molasses)",
+      "Lime juice",
+      "Fresh cilantro or parsley",
+      "Olive oil"
+    ],
+    "preparation": [
+      "Heat the arepa bases lightly so they become flexible.",
+      "Spread a thin layer of lahmacun mince over each base.",
+      "Roll tightly and slice into bite-size pinwheels.",
+      "Bake briefly until the mince is cooked and the outside takes a little color.",
+      "Before serving, drizzle with a mix of nar ekşisi and lime juice, and garnish with fresh cilantro."
+    ],
+    "taste_profile": [
+      "Classic Turkish lahmacun spice profile",
+      "Corn-based, slightly sweet arepa base",
+      "Sweet–sour notes from pomegranate molasses and lime",
+      "Easy-to-share finger food"
+    ],
+    "menu_blurb": "Thin arepa rolls filled with lahmacun mince, finished with nar ekşisi–lime glaze and fresh cilantro.",
+    "image": "assets/house_menu/food/arepa_lahmacun_rolls.jpg"
+  },
+  {
+    "id": "food_empanada_manti_bites",
+    "type": "food",
+    "category": "food",
+    "name": "Empanada Mantı Bites",
+    "short_name": "Mantı Bites",
+    "style": "Mini empanadas with Turkish mantı filling",
+    "description": "Mini empanada shells filled with classic Turkish mantı mince, fried until crisp and served with garlic yogurt and a spicy ají drizzle.",
+    "signature": false,
+    "tags": ["empanada", "manti", "bites"],
+    "ingredients": [
+      "Mini empanada dough discs",
+      "Mantı mince (beef, onion, black pepper, salt)",
+      "Oil for frying or baking",
+      "Yogurt",
+      "Garlic",
+      "Ají or hot chili sauce",
+      "Butter or oil with chili flakes",
+      "Fresh parsley"
+    ],
+    "preparation": [
+      "Place a small spoonful of mantı mince in the center of each empanada disc.",
+      "Fold over and seal the edges tightly to form mini empanadas.",
+      "Fry in hot oil or bake until golden and crisp.",
+      "Prepare garlic yogurt and a warm chili butter or ají drizzle.",
+      "Plate the bites, spoon yogurt on top and finish with the chili drizzle and parsley."
+    ],
+    "taste_profile": [
+      "All the flavor of classic mantı but in finger-food form",
+      "Crispy outside, juicy mince inside",
+      "Garlic yogurt and chili drizzle for creamy–spicy contrast",
+      "Familiar for Turkish guests, surprising for international visitors"
+    ],
+    "menu_blurb": "Mini empanadas stuffed with Turkish mantı mince, topped with garlic yogurt and a spicy ají drizzle.",
+    "image": "assets/house_menu/food/empanada_manti_bites.jpg"
+  },
+  {
+    "id": "food_mondongo_kokorec_fries",
+    "type": "food",
+    "category": "food",
+    "name": "Mondongo Kokoreç Fries",
+    "short_name": "Kokoreç Fries",
+    "style": "Loaded fries with kokoreç & mondongo spices",
+    "description": "Crispy fries topped with kokoreç seasoned with mondongo-style spices and finished with smoky chipotle yogurt.",
+    "signature": false,
+    "tags": ["loaded fries", "kokorec", "spicy", "sharing"],
+    "ingredients": [
+      "French fries",
+      "Finely chopped kokoreç",
+      "Mondongo-style spice mix (cumin, garlic, cilantro, chili, etc.)",
+      "Yogurt",
+      "Chipotle or smoked chili sauce",
+      "Salt and black pepper",
+      "Spring onion or cilantro"
+    ],
+    "preparation": [
+      "Fry the potatoes until very crispy.",
+      "Sauté the kokoreç with the mondongo spice mix until fragrant.",
+      "Mix yogurt with chipotle sauce to make a smoky, spicy yogurt.",
+      "Pile fries on a plate, top with hot kokoreç.",
+      "Drizzle with chipotle yogurt and garnish with chopped spring onion or cilantro."
+    ],
+    "taste_profile": [
+      "Intense offal flavor from kokoreç",
+      "Smoky, spicy depth from mondongo spices and chipotle",
+      "Comforting base of crispy loaded fries",
+      "Creamy, tangy finish from the yogurt sauce"
+    ],
+    "menu_blurb": "Crispy fries loaded with kokoreç, mondongo spices and smoky chipotle yogurt drizzle.",
+    "image": "assets/house_menu/food/mondongo_kokorec_fries.jpg"
+  },
+  {
+    "id": "food_sucuklu_yuca_fries",
+    "type": "food",
+    "category": "food",
+    "name": "Yuca Fries with Turkish Sucuk",
+    "short_name": "Yuca Fries",
+    "style": "Cassava fries with Turkish sucuk",
+    "description": "Fried yuca sticks topped with sautéed Turkish sucuk pieces and a yogurt–lime–cilantro–ají sauce.",
+    "signature": false,
+    "tags": ["yuca", "cassava fries", "sucuk"],
+    "ingredients": [
+      "Yuca (cassava) cut into sticks",
+      "Turkish sucuk, small cubes or slices",
+      "Yogurt",
+      "Lemon or lime juice",
+      "Fresh cilantro",
+      "Ají or hot chili sauce",
+      "Salt and black pepper",
+      "Oil for frying"
+    ],
+    "preparation": [
+      "Parboil the yuca sticks in salted water, then drain and fry until crisp on the outside.",
+      "Sauté sucuk pieces in a pan until browned and slightly crispy.",
+      "Prepare a sauce by mixing yogurt with lemon/lime juice, chopped cilantro and a little ají.",
+      "Pile yuca fries on a plate, top with sucuk.",
+      "Drizzle with the yogurt–lime–cilantro sauce and serve immediately."
+    ],
+    "taste_profile": [
+      "Crispy outside, soft inside texture of yuca fries",
+      "Smoky, spicy character of Turkish sucuk",
+      "Refreshing sauce with yogurt, citrus and cilantro plus gentle heat from ají",
+      "Very filling sharing plate"
+    ],
+    "menu_blurb": "Crispy cassava fries topped with Turkish sucuk and a cilantro–yogurt–lime–ají sauce.",
+    "image": "assets/house_menu/food/sucuklu_yuca_fries.jpg"
+  },
+  {
+    "id": "food_arequipe_lokma_bombs",
+    "type": "food",
+    "category": "food",
+    "name": "Arequipe Lokma Bombs",
+    "short_name": "Arequipe Lokma",
+    "style": "Turkish lokma filled with Colombian arequipe",
+    "description": "Turkish lokma doughnuts filled with Colombian arequipe (milk caramel) and rolled in coconut or crushed nuts – a snack-style dessert for the bar.",
+    "signature": true,
+    "tags": ["dessert", "lokma", "arequipe"],
+    "ingredients": [
+      "Lokma dough",
+      "Oil for frying",
+      "Colombian arequipe (dulce de leche style caramel cream)",
+      "Desiccated coconut or crushed nuts",
+      "Optional: icing sugar for dusting"
+    ],
+    "preparation": [
+      "Prepare lokma dough and fry in hot oil into small round doughnuts.",
+      "While still warm, inject arequipe into the center using a piping bag with a narrow tip.",
+      "Roll the lokma in coconut or crushed nuts to coat the outside.",
+      "Dust lightly with icing sugar if desired and serve warm."
+    ],
+    "taste_profile": [
+      "Crispy outside, soft and airy inside classic lokma texture",
+      "Rich, milky caramel flavor from the arequipe filling",
+      "Extra aroma and crunch from coconut or nuts",
+      "Perfect small dessert bite to pair with cocktails"
+    ],
+    "menu_blurb": "Warm Turkish lokma filled with Colombian arequipe and rolled in coconut or crushed nuts – the ideal snack dessert for the cocktail bar.",
+    "image": "assets/house_menu/food/arequipe_lokma_bombs.jpg"
+  },
+  {
+    "id": "aguardiente_raki_citrus_sour",
+    "name": "Aguardiente–Rakı Citrus Sour",
+    "category": "drink",
+    "style": "Andean–Anatolian Citrus Sour",
+    "signature": false,
+    "image": "assets/house_menu/beverage/aguardiente_raki_citrus_sour.jpg",
+    "description": "Colombian aguardiente and Turkish rakı meet in a bright, foamy citrus sour with orange bitters.",
+    "ingredients": [
+      "35 ml Aguardiente",
+      "20 ml Rakı",
+      "25 ml freshly squeezed lemon juice",
+      "10 ml freshly squeezed orange juice",
+      "15 ml simple syrup",
+      "2 dashes orange bitters",
+      "Egg white or aquafaba (optional, for foam)",
+      "Ice"
+    ],
+    "preparation": [
+      "Add aguardiente, rakı, lemon juice, orange juice, simple syrup and egg white/aquafaba to a shaker.",
+      "Dry shake (without ice) for 8–10 seconds to create foam.",
+      "Add ice and shake again until well chilled.",
+      "Strain into a chilled coupe or rocks glass.",
+      "Finish with a few drops of orange bitters on top of the foam."
+    ],
+    "taste_profile": [
+      "Bright lemon–orange acidity with a soft sweetness.",
+      "Anise notes from aguardiente and rakı that appear in the finish.",
+      "Silky, foamy texture if egg white or aquafaba is used."
+    ]
+  },
+  {
+    "id": "turkish_bogota_mojito",
+    "name": "Turkish Bogotá Mojito",
+    "category": "drink",
+    "style": "Bogotá–Istanbul Mojito Twist",
+    "signature": false,
+    "image": "assets/house_menu/beverage/turkish_bogota_mojito.jpg",
+    "description": "A mojito where nar ekşisi replaces sugar and aguardiente brings a Colombian kick to classic mint and lime.",
+    "ingredients": [
+      "40 ml Aguardiente",
+      "15 ml Nar ekşisi (pomegranate molasses)",
+      "30 ml freshly squeezed lime juice",
+      "8–10 fresh mint leaves",
+      "Soda water",
+      "Lime wedges",
+      "Ice"
+    ],
+    "preparation": [
+      "In a highball glass, gently muddle mint leaves with lime wedges and nar ekşisi.",
+      "Fill the glass with ice.",
+      "Add aguardiente and lime juice, then stir to combine.",
+      "Top with soda water and give a final gentle stir.",
+      "Garnish with fresh mint and a lime wheel."
+    ],
+    "taste_profile": [
+      "Herbal mint and bright lime like a classic mojito.",
+      "Nar ekşisi adds deep, tangy pomegranate richness instead of simple sugar.",
+      "Light anise and spice from aguardiente in the aftertaste."
+    ]
+  },
+  {
+    "id": "saffron_margarita_colombiana",
+    "name": "Saffron Margarita Colombiana",
+    "category": "drink",
+    "style": "Saffron & Passion Fruit Margarita",
+    "signature": false,
+    "image": "assets/house_menu/beverage/saffron_margarita_colombiana.jpg",
+    "description": "Tequila, Colombian passion fruit and Turkish saffron infusion create a golden, aromatic margarita.",
+    "ingredients": [
+      "45 ml tequila blanco",
+      "20 ml saffron-infused triple sec or Cointreau",
+      "30 ml passion fruit pulp (Colombian maracuyá)",
+      "20 ml freshly squeezed lime juice",
+      "10 ml agave syrup (optional, to balance acidity)",
+      "Salt or chili-salt rim",
+      "Ice"
+    ],
+    "preparation": [
+      "Rim a coupe or rocks glass with salt or chili-salt and fill with ice.",
+      "Add tequila, saffron-infused triple sec, passion fruit, lime juice and agave syrup into a shaker with ice.",
+      "Shake vigorously for 10 seconds.",
+      "Strain into the prepared glass.",
+      "Garnish with a lime wheel or a small pinch of saffron threads."
+    ],
+    "taste_profile": [
+      "Intense tropical passion fruit acidity balanced by lime.",
+      "Warm, floral saffron aroma carried by the orange liqueur.",
+      "Classic margarita structure with an exotic, golden twist."
+    ]
+  },
+  {
+    "id": "granizado_ayran_vodka",
+    "name": "Granizado Ayran Vodka",
+    "category": "drink",
+    "style": "Salty Ayran Vodka Slush",
+    "signature": false,
+    "image": "assets/house_menu/beverage/granizado_ayran_vodka.jpg",
+    "description": "A salty ayran–based vodka slush with lime and mint, inspired by Turkish yogurt drinks and Latin granizados.",
+    "ingredients": [
+      "60 ml lightly salted ayran (Turkish yogurt drink)",
+      "35 ml vodka",
+      "15 ml freshly squeezed lime juice",
+      "5 ml simple syrup (optional, very light)",
+      "4–5 fresh mint leaves",
+      "Crushed ice"
+    ],
+    "preparation": [
+      "In a blender, add ayran, vodka, lime juice, simple syrup and mint leaves.",
+      "Add plenty of crushed ice and blend until slushy.",
+      "Pour into a chilled highball or goblet glass.",
+      "Garnish with a mint sprig and a thin lime wheel."
+    ],
+    "taste_profile": [
+      "Refreshing salty–sour yogurt base with lime brightness.",
+      "Herbal mint aroma, very drinkable despite the vodka.",
+      "Texture similar to a granizado or frozen margarita."
+    ]
+  },
+  {
+    "id": "arequipe_espresso_martini",
+    "name": "Arequipe Espresso Martini",
+    "category": "drink",
+    "style": "Colombian–Turkish Coffee Martini",
+    "signature": false,
+    "image": "assets/house_menu/beverage/arequipe_espresso_martini.jpg",
+    "description": "An espresso martini enriched with Turkish coffee aroma and Colombian arequipe caramel.",
+    "ingredients": [
+      "35 ml vodka",
+      "25 ml fresh espresso (or strong Turkish coffee)",
+      "20 ml coffee liqueur",
+      "15 ml arequipe (Colombian caramel) or dulce de leche",
+      "A pinch of very finely ground Turkish coffee (optional)",
+      "Ice"
+    ],
+    "preparation": [
+      "Add vodka, espresso, coffee liqueur and arequipe into a shaker.",
+      "Add plenty of ice and shake hard until the shaker is very cold and foamy.",
+      "Fine strain into a chilled martini glass.",
+      "Sprinkle a very small pinch of ground Turkish coffee or cocoa on top."
+    ],
+    "taste_profile": [
+      "Intense coffee aroma with a caramelized sweetness from arequipe.",
+      "Silky, slightly creamy texture with a thick foam on top.",
+      "Subtle Turkish coffee bitterness balancing the sweetness."
+    ]
+  },
+  {
+    "id": "reggaeton_raki_highball",
+    "name": "Reggaeton Raki Highball",
+    "category": "drink",
+    "style": "Rakı & Passion Highball",
+    "signature": false,
+    "image": "assets/house_menu/beverage/reggaeton_raki_highball.jpg",
+    "description": "A long, bubbly highball where Turkish rakı meets soda, lime and a touch of maracuyá syrup.",
+    "ingredients": [
+      "35 ml rakı",
+      "10–15 ml passion fruit (maracuyá) syrup",
+      "20 ml freshly squeezed lime juice",
+      "Soda water",
+      "Ice",
+      "Lime wheel for garnish"
+    ],
+    "preparation": [
+      "Fill a highball glass with ice.",
+      "Add rakı, passion fruit syrup and lime juice.",
+      "Top with cold soda water and give a gentle stir.",
+      "Garnish with a lime wheel; serve with a straw if desired."
+    ],
+    "taste_profile": [
+      "Light anise character from rakı, lifted by lime and soda.",
+      "Gentle tropical sweetness from maracuyá syrup.",
+      "Very refreshing, easy-drinking highball for hot nights."
+    ]
+  },
+  {
+    "id": "tropical_salgam_vodka",
+    "name": "Tropical Şalgam Vodka",
+    "category": "drink",
+    "style": "Spicy Şalgam Highball",
+    "signature": false,
+    "image": "assets/house_menu/beverage/tropical_salgam_vodka.jpg",
+    "description": "Vodka and Turkish red şalgam juice with lime and chili salt for a spicy, savory highball.",
+    "ingredients": [
+      "40 ml vodka",
+      "80 ml cold red şalgam juice",
+      "15 ml freshly squeezed lime juice",
+      "Pinch of chili salt or smoked chili powder for the rim",
+      "Ice"
+    ],
+    "preparation": [
+      "Rim a highball glass with lime and dip into chili salt.",
+      "Fill the glass with ice.",
+      "Add vodka, şalgam juice and lime juice.",
+      "Stir gently to combine.",
+      "Garnish with a lime wedge and, optionally, a chili slice."
+    ],
+    "taste_profile": [
+      "Savory, slightly fermented character from şalgam.",
+      "Citrusy freshness from lime balancing the salt and spice.",
+      "Chili salt rim adds smoky heat on every sip."
+    ]
+  },
+  {
+    "id": "patacon_old_fashioned",
+    "name": "Patacón Old Fashioned",
+    "category": "drink",
+    "style": "Rum & Fried Plantain Old Fashioned",
+    "signature": false,
+    "image": "assets/house_menu/beverage/patacon_old_fashioned.jpg",
+    "description": "A smoky rum old fashioned infused with the aroma of crispy patacón (fried plantain skin).",
+    "ingredients": [
+      "50 ml aged rum",
+      "1 bar spoon demerara sugar or simple syrup",
+      "3 dashes aromatic bitters",
+      "Plantain peel or dried plantain chip for aroma",
+      "Ice (large cube if possible)",
+      "Orange peel for garnish",
+      "Optional: smoke for presentation"
+    ],
+    "preparation": [
+      "In a mixing glass, combine rum, sugar and bitters.",
+      "Add ice and stir until well chilled.",
+      "Strain over a large ice cube in a rocks glass.",
+      "Express an orange peel over the drink and garnish.",
+      "Briefly flame or smoke a piece of plantain peel and present the drink with the aroma, or clip a dried plantain chip to the rim."
+    ],
+    "taste_profile": [
+      "Deep molasses and oak notes from aged rum.",
+      "Bitters and demerara sugar create a classic old fashioned backbone.",
+      "Light fried-plantain aroma for a unique Colombian street-food reference; optionally smoky on the nose."
+    ]
+  },
+  {
+    "id": "tropical_ottoman_sherbet",
+    "name": "Tropical Ottoman Sherbet Cocktail",
+    "category": "drink",
+    "style": "Ottoman Sherbet x Colombian Tropics",
+    "signature": true,
+    "image": "assets/house_menu/beverage/tropical_ottoman_sherbet.jpg",
+    "description": "Traditional Turkish pomegranate/cherry sherbet fused with Colombian maracuyá and aguardiente or rum – a red–orange, tropical sherbet cocktail.",
+    "ingredients": [
+      "50 ml Aguardiente (or white rum)",
+      "80 ml Turkish pomegranate or cherry sherbet",
+      "40 ml passion fruit (maracuyá) purée",
+      "15 ml freshly squeezed lemon juice",
+      "1–2 dashes orange bitters",
+      "Ice",
+      "Lime slice, pomegranate seeds and fresh mint for garnish"
+    ],
+    "preparation": [
+      "Fill a shaker with ice.",
+      "Add sherbet, maracuyá, lemon juice and aguardiente/rum.",
+      "Shake vigorously for 8–10 seconds.",
+      "Double strain into a chilled cocktail glass or over fresh ice in a tumbler.",
+      "Finish with a few drops of orange bitters.",
+      "Garnish with a lime wheel, pomegranate seeds and a mint sprig."
+    ],
+    "taste_profile": [
+      "Front: sweet–tart pomegranate or cherry sherbet.",
+      "Middle: tropical, fragrant maracuyá acidity.",
+      "Finish: gentle anise note from aguardiente and citrus bitterness from orange bitters – very drinkable but complex fusion."
+    ]
+  },
+  {
+    "id": "aegean_coastal_fire",
+    "name": "Aegean Coastal Fire",
+    "category": "drink",
+    "style": "Aegean Tropical Sherbet Cooler",
+    "signature": true,
+    "image": "assets/house_menu/beverage/aegean_coastal_fire.jpg",
+    "description": "Aegean-style lemon mint sherbet, Colombian passion fruit and a touch of aguardiente over rum – like an Aegean sea breeze meeting tropical fire.",
+    "ingredients": [
+      "40 ml white rum",
+      "20 ml aguardiente",
+      "70 ml Aegean-style lemon sherbet (lemon, fresh mint, light sugar)",
+      "40 ml passion fruit (maracuyá) purée",
+      "1 teaspoon Ege honey",
+      "4–5 fresh mint leaves",
+      "2–3 drops rose water",
+      "Ice",
+      "Pomegranate seeds, lemon peel spiral and mint sprig for garnish"
+    ],
+    "preparation": [
+      "Add rum, aguardiente, lemon sherbet, maracuyá, honey and a few mint leaves into a shaker with ice.",
+      "Shake strongly for about 10 seconds.",
+      "Strain over fresh ice into a large goblet or highball glass.",
+      "Add 2–3 drops of rose water on top.",
+      "Garnish with a mint sprig, lemon peel spiral and a few pomegranate seeds."
+    ],
+    "taste_profile": [
+      "First sip: cooling lemon sherbet and fresh mint – pure Aegean breeze.",
+      "Middle: passion fruit acidity bringing tropical energy.",
+      "Finish: gentle sweetness from honey and light anise notes from aguardiente, with a floral hint of rose water."
+    ]
+  },
+  {
+    "id": "sage_lulo_breeze",
+    "name": "Sage & Lulo Breeze",
+    "category": "drink",
+    "style": "Herbal Gin & Lulo Highball",
+    "signature": true,
+    "image": "assets/house_menu/beverage/sage_lulo_breeze.jpg",
+    "description": "A gin highball built on aromatic sage syrup and tangy Colombian lulo, topped with soda.",
+    "ingredients": [
+      "45 ml gin",
+      "40 ml lulo juice (or lulo pulp diluted)",
+      "15 ml sage syrup",
+      "Soda water",
+      "Ice",
+      "Mandarin or orange peel for garnish"
+    ],
+    "preparation": [
+      "Fill a highball glass with ice.",
+      "Add gin, lulo juice and sage syrup.",
+      "Top with soda water and stir gently.",
+      "Garnish with a strip of mandarin or orange peel and a small sage leaf if available."
+    ],
+    "taste_profile": [
+      "Aromatic herbal top notes from sage.",
+      "Refreshing, slightly sour lulo fruit body.",
+      "Dry, crisp finish supported by the botanicals of the gin."
+    ]
+  }
+]
