@@ -1,6 +1,7 @@
 # pages/2_SavedRecipes.py  (dosya adın farklıysa aynı içeriği oraya yapıştır)
 
 import os
+import html
 import sys
 
 # --- Python path ayarı (projeyi import edebilmek için) ---
@@ -283,7 +284,7 @@ def main():
         with head_left:
             st.markdown(
                 f'<div class="saved-header">'
-                f'<div class="saved-title">{idx}. {title_line}</div>'
+                f'<div class="saved-title">{idx}. {html.escape(str(title_line))}</div>'
                 f'</div>',
                 unsafe_allow_html=True,
             )

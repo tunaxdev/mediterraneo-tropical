@@ -3,6 +3,7 @@
 import os
 import sys
 import json
+import html
 
 # ---- Python path ayarı ----
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -404,9 +405,11 @@ def main():
                 if st.session_state.get(ai_key + "_text"):
                     ai_text = st.session_state[ai_key + "_text"]
                     # build a neat HTML box with our own small header
+                    # escape model output so it can't inject HTML into the page
+                    ai_text_safe = html.escape(ai_text).replace("\n", "<br/>")
                     safe_html = (
-                        f"<div style='font-weight:700; margin-bottom:6px;'>Pairing suggestions for <em>{name}</em></div>"
-                        f"<div class='medt-ai-box'>{ai_text}</div>"
+                        f"<div style='font-weight:700; margin-bottom:6px;'>Pairing suggestions for <em>{html.escape(name)}</em></div>"
+                        f"<div class='medt-ai-box'>{ai_text_safe}</div>"
                     )
                     st.markdown(safe_html, unsafe_allow_html=True)
 
